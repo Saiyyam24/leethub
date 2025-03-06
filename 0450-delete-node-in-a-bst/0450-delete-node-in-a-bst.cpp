@@ -36,14 +36,14 @@ public:
 
                 return (root->left?root->left:root->right);
             }
-            TreeNode* temp = root->left;
-            while(temp->right)
+            TreeNode* temp = root->right;
+            while(temp->left)
             {
-                temp=temp->right;
+                temp=temp->left;
                 
             }
             root->val=temp->val;
-            root->left = deleteNode(root->left,temp->val);
+            root->right = deleteNode(root->right,temp->val);
 
         }
         return root;
