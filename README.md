@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Saiyyam24/leethub/tree/master/0547-number-of-provinces) |
+## Array
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Saiyyam24/leethub/tree/master/0747-min-cost-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/Saiyyam24/leethub/tree/master/0747-min-cost-climbing-stairs) |
 <!---LeetCode Topics End-->
