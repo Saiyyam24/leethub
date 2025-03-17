@@ -27,5 +27,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Saiyyam24/leethub/tree/master/0338-counting-bits) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saiyyam24/leethub/tree/master/0747-min-cost-climbing-stairs) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Saiyyam24/leethub/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
