@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Saiyyam24/leethub/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Saiyyam24/leethub/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/Saiyyam24/leethub/tree/master/1036-rotting-oranges) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/Saiyyam24/leethub/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union Find
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/Saiyyam24/leethub/tree/master/0399-evaluate-division) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saiyyam24/leethub/tree/master/0747-min-cost-climbing-stairs) |
+| [1036-rotting-oranges](https://github.com/Saiyyam24/leethub/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Saiyyam24/leethub/tree/master/0399-evaluate-division) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Saiyyam24/leethub/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
