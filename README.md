@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Saiyyam24/leethub/tree/master/0399-evaluate-division) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saiyyam24/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saiyyam24/leethub/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/Saiyyam24/leethub/tree/master/1036-rotting-oranges) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/Saiyyam24/leethub/tree/master/0338-counting-bits) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saiyyam24/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saiyyam24/leethub/tree/master/0747-min-cost-climbing-stairs) |
 ## Bit Manipulation
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/Saiyyam24/leethub/tree/master/1036-rotting-oranges) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saiyyam24/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
