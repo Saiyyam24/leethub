@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saiyyam24/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
 ## String
 |  |
 | ------- |
@@ -80,8 +81,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saiyyam24/leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saiyyam24/leethub/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
