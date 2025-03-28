@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saiyyam24/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saiyyam24/leethub/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/Saiyyam24/leethub/tree/master/1036-rotting-oranges) |
+| [2636-maximum-subsequence-score](https://github.com/Saiyyam24/leethub/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saiyyam24/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2636-maximum-subsequence-score](https://github.com/Saiyyam24/leethub/tree/master/2636-maximum-subsequence-score) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saiyyam24/leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [2636-maximum-subsequence-score](https://github.com/Saiyyam24/leethub/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saiyyam24/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
+| [2636-maximum-subsequence-score](https://github.com/Saiyyam24/leethub/tree/master/2636-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
