@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saiyyam24/leethub/tree/master/0001-two-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saiyyam24/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0399-evaluate-division](https://github.com/Saiyyam24/leethub/tree/master/0399-evaluate-division) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saiyyam24/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Saiyyam24/leethub/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saiyyam24/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
 ## String
