@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saiyyam24/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saiyyam24/leethub/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/Saiyyam24/leethub/tree/master/1036-rotting-oranges) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Saiyyam24/leethub/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Saiyyam24/leethub/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saiyyam24/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Saiyyam24/leethub/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Saiyyam24/leethub/tree/master/2636-maximum-subsequence-score) |
 ## Quickselect
 |  |
@@ -98,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
+## Two Pointers
+|  |
+| ------- |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Saiyyam24/leethub/tree/master/2553-total-cost-to-hire-k-workers) |
+## Simulation
+|  |
+| ------- |
+| [2553-total-cost-to-hire-k-workers](https://github.com/Saiyyam24/leethub/tree/master/2553-total-cost-to-hire-k-workers) |
 <!---LeetCode Topics End-->
