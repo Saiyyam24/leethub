@@ -110,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Saiyyam24/leethub/tree/master/2553-total-cost-to-hire-k-workers) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saiyyam24/leethub/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saiyyam24/leethub/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
