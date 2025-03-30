@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Saiyyam24/leethub/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saiyyam24/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/Saiyyam24/leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Saiyyam24/leethub/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Saiyyam24/leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saiyyam24/leethub/tree/master/0151-reverse-words-in-a-string) |
+| [0208-implement-trie-prefix-tree](https://github.com/Saiyyam24/leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Saiyyam24/leethub/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/Saiyyam24/leethub/tree/master/0399-evaluate-division) |
 ## Backtracking
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Saiyyam24/leethub/tree/master/0208-implement-trie-prefix-tree) |
 | [2413-smallest-number-in-infinite-set](https://github.com/Saiyyam24/leethub/tree/master/2413-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saiyyam24/leethub/tree/master/0069-sqrtx) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/Saiyyam24/leethub/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
