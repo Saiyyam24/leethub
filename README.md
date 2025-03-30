@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saiyyam24/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Saiyyam24/leethub/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Saiyyam24/leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saiyyam24/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Saiyyam24/leethub/tree/master/0344-reverse-string) |
 | [0399-evaluate-division](https://github.com/Saiyyam24/leethub/tree/master/0399-evaluate-division) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Saiyyam24/leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saiyyam24/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Saiyyam24/leethub/tree/master/0344-reverse-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Saiyyam24/leethub/tree/master/2553-total-cost-to-hire-k-workers) |
