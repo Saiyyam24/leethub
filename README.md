@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Saiyyam24/leethub/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/Saiyyam24/leethub/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/Saiyyam24/leethub/tree/master/1036-rotting-oranges) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Saiyyam24/leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Saiyyam24/leethub/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2636-maximum-subsequence-score](https://github.com/Saiyyam24/leethub/tree/master/2636-maximum-subsequence-score) |
 ## Dynamic Programming
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saiyyam24/leethub/tree/master/0215-kth-largest-element-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Saiyyam24/leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/Saiyyam24/leethub/tree/master/2636-maximum-subsequence-score) |
 ## Heap (Priority Queue)
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Saiyyam24/leethub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saiyyam24/leethub/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Saiyyam24/leethub/tree/master/0344-reverse-string) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Saiyyam24/leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/Saiyyam24/leethub/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Simulation
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saiyyam24/leethub/tree/master/0069-sqrtx) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Saiyyam24/leethub/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Trie
 |  |
 | ------- |
