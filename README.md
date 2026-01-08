@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saiyyam24/leethub/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Saiyyam24/leethub/tree/master/0014-longest-common-prefix) |
 | [0162-find-peak-element](https://github.com/Saiyyam24/leethub/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Saiyyam24/leethub/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Saiyyam24/leethub/tree/master/0216-combination-sum-iii) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saiyyam24/leethub/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Saiyyam24/leethub/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0058-length-of-last-word](https://github.com/Saiyyam24/leethub/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Saiyyam24/leethub/tree/master/0125-valid-palindrome) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Saiyyam24/leethub/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Saiyyam24/leethub/tree/master/0208-implement-trie-prefix-tree) |
 ## Database
 |  |
